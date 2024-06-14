@@ -1,1 +1,3 @@
 api-gateway/api-gateway/volume-data/mysql_keycloak_data/mysql.sock
+inventory-service/inventory-service/docker/mysql/data/mysql.sock
+order-service/order-service/mysql/mysql.sock
